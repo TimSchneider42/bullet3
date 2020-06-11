@@ -991,7 +991,7 @@ struct b3CreateUserShapeData
 	int m_replaceHeightfieldIndex;
 };
 
-#define MAX_COMPOUND_COLLISION_SHAPES 16
+#define MAX_COMPOUND_COLLISION_SHAPES 32
 
 struct b3CreateUserShapeArgs
 {
